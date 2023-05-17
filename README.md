@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arhaan Sayeed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A student developer, passionate about different technologies, from India</h3>
 
 - 🔭 I’m currently working on [Bank Backend Development](https://github.com/Dev-Arhaan/Simple-Bank)
 
