@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Arhaan, a full-time full-stack freelance developer 👨‍💻 working since 2024 🚀 Looking for remote opportunities</div>  
+### <div align="center">I'm Arhaan, a full-time full-stack developer 👨‍💻 working since 2024 🚀 Looking for remote opportunities</div>  
   
 
 - 🔭 I’m currently working on open sourced [MatterMost](https://github.com/mattermost/mattermost)  
